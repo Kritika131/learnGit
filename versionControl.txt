@@ -1,0 +1,11 @@
+What is version control?
+--------------------------------------------
+  Version control - also known as source control or revision control - is an important software development practice for tracking and managing changes made to code and other files. 
+  It is closely related to source code management.
+
+What is a version control system?
+   A version control system (VCS) tracks changes to a file or set of files over time. 
+   The most common type is a centralized VCS, which uses a server to store all the versions of a file.
+   Developers can check out a file from the server, make changes, and check the file back in. 
+   The server then stores the new version of the file.
+
